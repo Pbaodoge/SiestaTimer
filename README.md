@@ -7,5 +7,5 @@
 - Well it is simple ngl. I just have to use `ctime` library(which is built in) in C++ and then implement everything into Qt Framework.
 - I also use QML programming language, which is a markup language. It is easy so ofc, I chose that.
 # Supprting me
-- If you want to support me, you can click (here)[https://pbaodoge-siesta.ml/donate.html] **if you can**.
+- If you want to support me, you can click [here](https://pbaodoge-siesta.ml/donate.html) **if you can**.
 - To help me imporve the app, just do a pull request...bruh.
