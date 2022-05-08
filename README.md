@@ -1,4 +1,4 @@
-# Siesta Clock
+# Siesta Timer
 - A Windows Clock written in C++ with Qt Framework
 # How it was built
 - Recently, I have an idea of making a lightweight clock/timer software and also for my first software project. And yeah, it took me arround a day to deal with everything.
@@ -10,4 +10,4 @@
 - If you want to support me, you can click [here](https://pbaodoge-siesta.ml/donate.html) **if you can**. Please give it a star if you like.
 - To help me imporve the app, just do a pull request...bruh.
 # Preview
-![image](https://pbaodoge-siesta.ml/projects/siestaclock/screenshot.png)
+![image](https://pbaodoge-siesta.ml/projects/siestatimer/screenshot.png)
