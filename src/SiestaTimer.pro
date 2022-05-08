@@ -3,6 +3,8 @@ QT += quick
 SOURCES += \
         main.cpp
 
+TARGET = SiestaTimer
+TEMPLATE = app
 resources.files = main.qml 
 resources.prefix = /$${TARGET}
 RESOURCES += resources
